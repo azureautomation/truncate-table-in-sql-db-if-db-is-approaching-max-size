@@ -1,0 +1,20 @@
+{
+    "Author": "Joseph Idziorek",
+    "ContentSize": 6372,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/truncate-table-in-sql-db-if-db-is-approaching-max-size/master/Remove-DataFromSqlDbTable.ps1",
+    "DownloadCount": 4090,
+    "Id": "Azure-Automation-Your-SQL-30f8736b",
+    "IsFederated": true,
+    "IsWorkflow": true,
+    "Popularity": 108,
+    "RaterCount": 3,
+    "Rating": 3.7,
+    "ReleaseDate": "2014-6-20T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "This Azure Automation runbook provides an example of how Azure Automation can be used to execute SQL Agent jobs in the cloud.  This example demonstrates how to truncate a table if one or more database approach their maximum size.",
+    "Title": "Truncate table in SQL DB if DB is approaching max size",
+    "UpdatedDate": "2014-8-11T00:00:00",
+    "Url": "https://github.com/azureautomation/truncate-table-in-sql-db-if-db-is-approaching-max-size",
+    "UserTags": "SQL, Powershell, Windows Azure SQL Database"
+}
